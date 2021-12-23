@@ -6,7 +6,7 @@
         xmlns:local="clr-namespace:_2048"
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
-    <Canvas x:Name="mycanvas1">
+    <Canvas x:Name="mycanvas1" SizeChanged="Sizegeändert" >
         
     </Canvas>
 </Window>
