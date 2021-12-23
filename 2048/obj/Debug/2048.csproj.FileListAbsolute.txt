@@ -1,0 +1,15 @@
+D:\Meine Dateien\Programmieren\C# Programme\Eigenes\2048\2048\2048\bin\Debug\2048.exe.config
+D:\Meine Dateien\Programmieren\C# Programme\Eigenes\2048\2048\2048\bin\Debug\2048.exe
+D:\Meine Dateien\Programmieren\C# Programme\Eigenes\2048\2048\2048\bin\Debug\2048.pdb
+D:\Meine Dateien\Programmieren\C# Programme\Eigenes\2048\2048\2048\obj\Debug\2048.csproj.AssemblyReference.cache
+D:\Meine Dateien\Programmieren\C# Programme\Eigenes\2048\2048\2048\obj\Debug\MainWindow.g.cs
+D:\Meine Dateien\Programmieren\C# Programme\Eigenes\2048\2048\2048\obj\Debug\App.g.cs
+D:\Meine Dateien\Programmieren\C# Programme\Eigenes\2048\2048\2048\obj\Debug\2048_MarkupCompile.cache
+D:\Meine Dateien\Programmieren\C# Programme\Eigenes\2048\2048\2048\obj\Debug\2048_MarkupCompile.lref
+D:\Meine Dateien\Programmieren\C# Programme\Eigenes\2048\2048\2048\obj\Debug\MainWindow.baml
+D:\Meine Dateien\Programmieren\C# Programme\Eigenes\2048\2048\2048\obj\Debug\2048.g.resources
+D:\Meine Dateien\Programmieren\C# Programme\Eigenes\2048\2048\2048\obj\Debug\_2048.Properties.Resources.resources
+D:\Meine Dateien\Programmieren\C# Programme\Eigenes\2048\2048\2048\obj\Debug\2048.csproj.GenerateResource.cache
+D:\Meine Dateien\Programmieren\C# Programme\Eigenes\2048\2048\2048\obj\Debug\2048.csproj.CoreCompileInputs.cache
+D:\Meine Dateien\Programmieren\C# Programme\Eigenes\2048\2048\2048\obj\Debug\2048.exe
+D:\Meine Dateien\Programmieren\C# Programme\Eigenes\2048\2048\2048\obj\Debug\2048.pdb
